@@ -1,0 +1,18 @@
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\bin\Debug\Client_UDP.exe.config
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\bin\Debug\Client_UDP.exe
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\bin\Debug\Client_UDP.pdb
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.csprojResolveAssemblyReference.cache
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.Client.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.Properties.Resources.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.csproj.GenerateResource.Cache
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.exe
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\bin\Debug\Client_UDP.exe.config
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.exe
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\bin\Debug\Client_UDP.exe
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\bin\Debug\Client_UDP.pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.Client.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.Properties.Resources.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Client_UDP\obj\Debug\Client_UDP.csproj.GenerateResource.Cache

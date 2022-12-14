@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<Database xmlns="http://tempuri.org/Database.xsd">
+  <Files>
+    <Id>1</Id>
+    <Url>https://media.hufi.edu.vn//Media/2_SV_HUFI/FolderFunc/202102/Documents/thong-bao-gia-han-hoc-phi-hk2-2020-2021-da-chuyen-doi-20210225105238-e-20210226091825-e.pdf</Url>
+    <FileName>thong-bao-gia-han-hoc-phi-hk2-2020-2021-da-chuyen-doi-20210225105238-e-20210226091825-e.pdf</FileName>
+    <FileSize>159.89 KB</FileSize>
+    <DateTime>2021-06-12T17:53:11.2106746+07:00</DateTime>
+  </Files>
+  <Files>
+    <Id>2</Id>
+    <Url>https://docsv.hufi.edu.vn/Resource/Upload/File/Document/28-01-2021-16-13-49_scan-0013.pdf</Url>
+    <FileName>28-01-2021-16-13-49_scan-0013.pdf</FileName>
+    <FileSize>632.25 KB</FileSize>
+    <DateTime>2021-06-12T17:59:44.3118712+07:00</DateTime>
+  </Files>
+  <Files>
+    <Id>3</Id>
+    <Url>http://dotnetexample.com/postman.exe</Url>
+    <FileName>postman.exe</FileName>
+    <FileSize>92570.59 KB</FileSize>
+    <DateTime>2021-06-12T19:08:50.919558+07:00</DateTime>
+  </Files>
+  <Files>
+    <Id>4</Id>
+    <Url>http://download1587.mediafire.com/jd3fndtgwekg/bhepos1e87t6bfb/www.cnttk9c.gamerzfun.com_Rockman4.rar</Url>
+    <FileName>www.cnttk9c.gamerzfun.com_Rockman4.rar</FileName>
+    <FileSize>19224.19 KB</FileSize>
+    <DateTime>2021-06-18T00:15:53.0182212+07:00</DateTime>
+  </Files>
+  <Files>
+    <Id>5</Id>
+    <Url>http://download1587.mediafire.com/jd3fndtgwekg/bhepos1e87t6bfb/www.cnttk9c.gamerzfun.com_Rockman4.rar</Url>
+    <FileName>www.cnttk9c.gamerzfun.com_Rockman4.rar</FileName>
+    <FileSize>19224.19 KB</FileSize>
+    <DateTime>2021-06-18T00:19:09.2646462+07:00</DateTime>
+  </Files>
+  <Files>
+    <Id>6</Id>
+    <Url>http://download1587.mediafire.com/jd3fndtgwekg/bhepos1e87t6bfb/www.cnttk9c.gamerzfun.com_Rockman4.rar</Url>
+    <FileName>www.cnttk9c.gamerzfun.com_Rockman4.rar</FileName>
+    <FileSize>19224.19 KB</FileSize>
+    <DateTime>2021-06-18T00:20:11.9546988+07:00</DateTime>
+  </Files>
+</Database>

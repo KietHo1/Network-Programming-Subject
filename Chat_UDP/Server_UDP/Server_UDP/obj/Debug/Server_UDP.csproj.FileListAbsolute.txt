@@ -1,0 +1,18 @@
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\bin\Debug\Server_UDP.exe.config
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\bin\Debug\Server_UDP.exe
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\bin\Debug\Server_UDP.pdb
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.Server.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.Properties.Resources.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.csproj.GenerateResource.Cache
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.exe
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.pdb
+E:\Lap Trinh Mang\DO AN CUOI KY\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\bin\Debug\Server_UDP.exe.config
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.exe
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\bin\Debug\Server_UDP.exe
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\bin\Debug\Server_UDP.pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.Server.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.Properties.Resources.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\Chat_UDP\Server_UDP\Server_UDP\obj\Debug\Server_UDP.csproj.GenerateResource.Cache

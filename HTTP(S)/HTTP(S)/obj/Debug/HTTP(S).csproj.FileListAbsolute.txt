@@ -1,0 +1,39 @@
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).exe.config
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).exe
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).pdb
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).csprojResolveAssemblyReference.cache
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.Properties.Resources.resources
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).csproj.GenerateResource.Cache
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).exe
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).pdb
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\bin\Debug\xNet.dll
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmAddURL.resources
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmDownload.resources
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmMain.resources
+E:\Lap Trinh Mang\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmSetting.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).exe.config
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).exe
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).pdb
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).exe
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).pdb
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\bin\Debug\xNet.dll
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).csprojResolveAssemblyReference.cache
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmAddURL.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmDownload.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmMain.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmSetting.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.Properties.Resources.resources
+E:\Lap Trinh Mang\DO AN CUOI KY\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).exe.config
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).exe
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).exe
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\bin\Debug\HTTP(S).pdb
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\bin\Debug\xNet.dll
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmAddURL.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmDownload.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmMain.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.frmSetting.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP_S_.Properties.Resources.resources
+C:\Users\acer\Desktop\Do An Cuoi Ky\HTTP(S)\HTTP(S)\obj\Debug\HTTP(S).csproj.GenerateResource.Cache
